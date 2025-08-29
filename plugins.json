@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "cerb-ghost-prayers",
+    "displayName": "Cerberus Ghost Prayers",
+    "author": "TurboTimeTommy",
+    "description": "Shows the correct protection prayer icon above each Summoned Soul at Cerberus.",
+    "version": "1.0.0",
+    "provider": "cerbghosts",
+    "plugins": ["com.cerbghosts.CerbGhostPrayersPlugin"],
+    "hash": "b1e3da94df4a91286973f151b2b825327372cb419c548b312740b7e368c3e7cc",
+    "size": 10349
+  }
+]
